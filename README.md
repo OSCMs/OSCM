@@ -13,3 +13,9 @@ The mission of the Open Source Community Managers Group is to:
 1. We value inclusivity, diversity, and everyone's point of view - we encourage lively conversations
 2. We are committed to doing everything in the open
 3. We warmly welcome new contributors to the group
+
+# Code of Conduct
+The Open Source Community Managers Group is governed by the [Contributor Covenant](https://www.contributor-covenant.org/), version 1.4, which is available [here](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
+
+# License 
+The Open Source Community Managers Group is licensed under the [Apache 2 License](https://github.com/OSCMs/OSCM/blob/master/LICENSE).
