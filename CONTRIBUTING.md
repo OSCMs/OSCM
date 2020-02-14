@@ -4,5 +4,5 @@ Please open issues and/or submit a pull request. One of the maintainers will get
 
 # How to Communicate
 To communicate with the community, please join the OSCM google group. How to join the group:
-1. Request access to the group [here](https://groups.google.com/forum/#!forum/open-source-community-managers). 
+1. Request access to the group [here](https://groups.google.com/forum/#!forum/open-source-community-managers). Make sure to click the 'Apply for membership' hyperlink, not the 'contact the owner and manager' hyperlink.
 2. Make sure to include your name, title and where you work in the notes section when requesting access. 
