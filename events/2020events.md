@@ -1,4 +1,6 @@
-Upcoming Events:
+## 2020 Open Source Events
+
+### Upcoming Events:
 * [Linux Foundation Member's Summit](https://events.linuxfoundation.org/lf-member-summit/): March 10-12 (Lake Tahoe, CA)
 * [Open Source 101](https://opensource101.com/events/austin-2020/): April 14 (Austin, TX)
 * [DevRelCon SF](https://sf2020.devrel.net/): June 1 -2 (San Francisco, CA)
@@ -10,7 +12,7 @@ Upcoming Events:
 * [KubeCon NA](https://events20.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2020/): Nov 17-20 (Boston, MA)
 
 
-Past Events:
+### Past Events:
 * [Sustain OS](https://opencollective.com/sustainoss/events/sustain-2020-5874aeeb): Jan 30 (Brussels, Belgium) 
 * [CHAOSScon](https://chaoss.community/chaosscon-2020-eu/): Jan 31 (Brussels, Belgium) 
 * [FOSDEM](https://fosdem.org/2020/): Feb 1-2 (Brussels, Belgium) 
