@@ -1,6 +1,6 @@
 # Open Source Community Managers
 
-Are you someone who manages Community and sits in an Open Source Program Office (OSPO)? If so, there's a Google group that you can subscribe to. This group was created to share best practices, celebrate wins, discuss challenges, & more. Join us!
+Are you someone who manages Community and sits in an Open Source Program Office (OSPO)? If so, there's a Google group that you can subscribe to. This group was created to share best practices, celebrate wins, discuss challenges, & more. [Join us!](https://groups.google.com/forum/#!forum/open-source-community-managers)
 
 
 # Mission
