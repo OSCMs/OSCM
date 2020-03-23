@@ -4,7 +4,6 @@
 * [Linux Foundation Member's Summit](https://events.linuxfoundation.org/lf-member-summit/): March 10-12 (Lake Tahoe, CA)
 * [Open Source 101](https://opensource101.com/events/austin-2020/): April 14 (Austin, TX)
 * [DevRelCon SF](https://sf2020.devrel.net/): June 1 -2 (San Francisco, CA)
-* [OpenDev + PTG](https://www.eventbrite.com/e/opendev-ptg-vancouver-2020-tickets-88923270897): June 8-11 (Vancouver, BC)
 * [Open Source Summit NA](https://events.linuxfoundation.org/open-source-summit-north-america/): June 22-24 (Austin, TX) 
 * [OSCON](https://conferences.oreilly.com/oscon/oscon-or): July 13-16 (Portland, OR) 
 * [All Things Open](https://2020.allthingsopen.org/): Oct 12-16 (Raleigh, NC) 
